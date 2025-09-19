@@ -50,7 +50,7 @@ const Services = () => {
           {services.map((service, index) => (
             <div
               key={index}
-              className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 p-8 group hover:-translate-y-2 transform transition-transform"
+              className="bg-white rounded-xl shadow-lg hover:shadow-xl duration-300 p-8 group hover:-translate-y-2 transform transition-transform"
             >
               {/* Icon */}
               <div className="mb-6 group-hover:scale-110 transition-transform duration-300">
