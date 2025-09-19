@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const CTASection = () => {
   return (
-    <section className="bg-primary py-20">
+    <section id="kontak" className="bg-primary py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           {/* Main Headline */}
@@ -52,7 +52,7 @@ const CTASection = () => {
             </Link>
             
             <Link
-              href="https://wa.me/6281234567890"
+              href="https://wa.me/6281377243047"
               target="_blank"
               rel="noopener noreferrer"
               className="border-2 border-white text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-white hover:text-primary transition-colors inline-flex items-center"
