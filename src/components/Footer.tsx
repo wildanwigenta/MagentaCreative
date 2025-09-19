@@ -97,8 +97,8 @@ const Footer = () => {
                 </svg>
                 <div>
                   <p className="text-gray-300 text-sm">Email</p>
-                  <a href="mailto:hello@magentacreative.id" className="text-white hover:text-primary transition-colors">
-                    hello@magentacreative.id
+                  <a href="mailto:magentacreative@gmail.com" className="text-white hover:text-primary transition-colors">
+                    magentacreative@gmail.com
                   </a>
                 </div>
               </div>
@@ -110,7 +110,7 @@ const Footer = () => {
                 <div>
                   <p className="text-gray-300 text-sm">WhatsApp</p>
                   <a href="https://wa.me/6281234567890" className="text-white hover:text-primary transition-colors">
-                    +62 812-3456-7890
+                    +62 81377243047
                   </a>
                 </div>
               </div>
@@ -122,8 +122,8 @@ const Footer = () => {
                 <div>
                   <p className="text-gray-300 text-sm">Alamat</p>
                   <p className="text-white text-sm">
-                    Jl. Kreatif Digital No. 123<br />
-                    Jakarta Selatan, DKI Jakarta
+                    Kretek<br />
+                    Bantul, Yogyakarta
                   </p>
                 </div>
               </div>
